@@ -16,7 +16,7 @@ To get started, you need to clone the project repository to your computer. Open 
 
 bash
 
-# Copy code
+Copy code
 git clone https://github.com/your-username/project-name.git
 Replace your-username and project-name with your GitHub username and the name of the project.
 
